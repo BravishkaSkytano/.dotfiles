@@ -20,6 +20,9 @@ alias yp='yadm push'
 alias yd='yadm diff'
 alias yup='yadm fetch; yadm status'
 
+# chezmoi
+alias edit="chezmoi edit --apply"
+
 # Directories
 alias ..='cd ..'
 alias ...='cd ../..'
